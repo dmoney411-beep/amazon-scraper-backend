@@ -1,0 +1,14 @@
+{
+    "name": "amazon-scraper-backend",
+    "version": "1.0.0",
+    "description": "Amazon product scraper backend for Vercel",
+    "main": "api/scrape.js",
+    "scripts": {
+          "dev": "node api/scrape.js",
+          "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": ["amazon", "scraper"],
+    "author": "",
+    "license": "MIT",
+    "dependencies": {}
+}
